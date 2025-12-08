@@ -98,9 +98,9 @@ Built real-time sign language recognition model using MediaPipe Holistic, LSTM l
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarkaistha&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkaistha&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -140,6 +140,6 @@ I'm always open to interesting conversations about data science, machine learnin
 ### ⚡ Fun Fact
 I've worked on projects ranging from building all-terrain vehicles (E-BAJA SAE) to developing AI systems for enterprise deployment!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sagarkaistha&color=brightgreen&style=for-the-badge)
 
 </div>
