@@ -94,18 +94,6 @@ Built real-time sign language recognition model using MediaPipe Holistic, LSTM l
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarkaistha&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkaistha&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **M.S. in Data Science** - Northeastern University (GPA: 4.0/4.0)
@@ -121,7 +109,6 @@ Built real-time sign language recognition model using MediaPipe Holistic, LSTM l
 - Advanced Statistical Modeling & Bootstrap Sampling
 - Scalable Data Pipeline Architecture
 - Real-time Analytics & Streaming Data
-- MLOps & Model Deployment Best Practices
 
 ---
 
