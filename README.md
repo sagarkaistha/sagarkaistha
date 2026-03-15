@@ -28,7 +28,7 @@ class Sagar:
     def current_quest(self):
         return [
             "Building lane-detection models on CULane dataset 🚗",
-            "Hunting for data engineering co-ops 🔍",
+            "Hunting for data co-ops 🔍",
             "Shooting the world one frame at a time 📷",
         ]
 
