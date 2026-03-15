@@ -125,6 +125,7 @@ LSTM-based gesture recognition model across **26 sign classes** with **74% accur
 
 </div>
 
+---
 
 ## 🎓 Education & Certifications
 
@@ -144,19 +145,6 @@ LSTM-based gesture recognition model across **26 sign classes** with **74% accur
 
 ---
 
-<div align="center">
-
-### ⚡ Fun Facts
-
-🏎️ Built all-terrain vehicles for E-BAJA SAE &nbsp;|&nbsp; 📷 Amateur photographer
-
-![Profile Views](https://komarev.com/ghpvc/?username=sagarkaistha&color=blueviolet&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer"/>
-
-</div>
----
-
 ## 📷 Beyond the Terminal
 
 When I'm not wrangling data pipelines or training models, I'm out hunting for the perfect shot.
@@ -170,3 +158,15 @@ When I'm not wrangling data pipelines or training models, I'm out hunting for th
 </div>
 
 ---
+<div align="center">
+
+### ⚡ Fun Facts
+
+🏎️ Built all-terrain vehicles for E-BAJA SAE &nbsp;|&nbsp; 📷 Amateur photographer
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagarkaistha&color=blueviolet&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer"/>
+
+</div>
+
