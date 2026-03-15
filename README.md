@@ -93,7 +93,7 @@ Three-model comparison pipeline on the **CULane dataset** across 9 real-world dr
 **Tech Stack:** `PyTorch` `OpenCV` `scikit-learn` `CULane` `Python`
 
 ### 📊 Interactive BRFSS Health Analytics Dashboard
-End-to-end pipeline processing **5M+ health survey records** with 7 interactive analytical panels, confidence interval visualizations, and real-time demographic filtering.
+End-to-end pipeline processing ** health survey records** with 7 interactive analytical panels, confidence interval visualizations, and real-time demographic filtering.
 
 **Tech Stack:** `Python` `R` `Dash` `Plotly` `Statistical Analysis`
 
@@ -125,21 +125,6 @@ LSTM-based gesture recognition model across **26 sign classes** with **74% accur
 
 </div>
 
----
-
-## 📷 Beyond the Terminal
-
-When I'm not wrangling data pipelines or training models, I'm out hunting for the perfect shot.
-
-<div align="center">
-
-[![Photography](https://img.shields.io/badge/📷%20%40skaistha__clicks-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skaistha_clicks/?hl=en)
-
-*Frames from the field — street, nature, architecture, and everything in between.*
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
@@ -163,10 +148,25 @@ When I'm not wrangling data pipelines or training models, I'm out hunting for th
 
 ### ⚡ Fun Facts
 
-🏎️ Built all-terrain vehicles for E-BAJA SAE &nbsp;|&nbsp; 🧬 Hackathon podium with zero bio background &nbsp;|&nbsp; 📷 Amateur photographer
+🏎️ Built all-terrain vehicles for E-BAJA SAE &nbsp;|&nbsp; 📷 Amateur photographer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sagarkaistha&color=blueviolet&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>
+---
+
+## 📷 Beyond the Terminal
+
+When I'm not wrangling data pipelines or training models, I'm out hunting for the perfect shot.
+
+<div align="center">
+
+[![Photography](https://img.shields.io/badge/📷%20%40skaistha__clicks-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skaistha_clicks/?hl=en)
+
+*Frames from the field — street, nature, architecture, and everything in between.*
+
+</div>
+
+---
